@@ -1,5 +1,7 @@
 Package form
 ============
+
+[![Join the chat at https://gitter.im/go-playground/form](https://badges.gitter.im/go-playground/form.svg)](https://gitter.im/go-playground/form?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <img align="right" src="https://raw.githubusercontent.com/go-playground/form/master/logo.jpg">
 ![Project status](https://img.shields.io/badge/version-2.2.0-green.svg)
 [![Build Status](https://semaphoreci.com/api/v1/joeybloggs/form/branches/master/badge.svg)](https://semaphoreci.com/joeybloggs/form)
